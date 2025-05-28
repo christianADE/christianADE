@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @christian Smart_X
-- 👀 I’m interested in IT Security and Developpement
-- 🌱 I’m currently learning python, html css, php
+- 👀 I’m interested in IT Security and Developpement & Cyber security
+- 🌱 I use as technologie, html css, php, python, bash
 - 😄 Pronouns: Christian
-- ⚡ Fun fact: 
 - christianadegbeti@gmail.com
 <!---
 christianADE/christianADE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
