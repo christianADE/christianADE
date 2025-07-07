@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @christian Smart_X
+- 👋 Hi, I’m @christian ADEGBETI
 - 👀 I’m interested in IT Security and Developpement & Cyber security
-- 🌱 I use as technologie, html css, php, python, bash
+- 🌱 I use as technologie, html css, php, python, bash, kali, metasploit, pentest
 - 😄 Pronouns: Christian
 - christianadegbeti@gmail.com
 <!---
